@@ -1,0 +1,3 @@
+C:/Users/chenl/Documents/UMG/PROGRAMACION/PROYECTOS/Calificaciones/cmake-build-debug/CMakeFiles/Calificaciones.dir
+C:/Users/chenl/Documents/UMG/PROGRAMACION/PROYECTOS/Calificaciones/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chenl/Documents/UMG/PROGRAMACION/PROYECTOS/Calificaciones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
